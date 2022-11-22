@@ -23,7 +23,7 @@ Una vez abierto el repositorio de manera local, ingresar al archivo `manifest.js
 }
 ```
 
-### Paso 3 - Revisar las dependencias y builders necesarios
+### Paso 3 - Revisar builders 
 
 Una vez modificada esa sección del `manifest.json`, se debe rectificar que el repositorio contenga los builders necesarios:
 
