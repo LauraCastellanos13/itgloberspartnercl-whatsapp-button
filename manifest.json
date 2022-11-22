@@ -1,7 +1,7 @@
 {
   "vendor": "itgloberspartnercl",
   "name": "whatsapp-button",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "Whatsapp Button Component",
   "description": "Whatsapp button that will receive a phone, logo and message",
   "builders": {
